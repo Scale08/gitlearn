@@ -3,4 +3,4 @@ project(gitlearn C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(gitlearn main.c)
+add_executable(gitlearn main.c subfunc.c)
